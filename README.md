@@ -1,0 +1,2 @@
+# dot-hyprland
+Configuración hyprland
